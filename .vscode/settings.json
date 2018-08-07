@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/gnexlab_imac/.platformio/penv/bin:/Users/gnexlab_imac/.platformio/penv:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/gnexlab_imac/exec -l /bin/bash/google-cloud-sdk/bin:/Library/Frameworks/Python.framework/Versions/3.5/bin:/opt/local/bin:/opt/local/sbin:/Library/Frameworks/Python.framework/Versions/2.7/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/usr/local/git/bin:/Applications/Arduino.app/Contents/Resources/Java/hardware/tools/avr/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
